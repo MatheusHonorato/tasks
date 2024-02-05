@@ -12,8 +12,8 @@ https://github.com/users/MatheusHonorato/projects/1
 
 ## Development patterns
 
-- Development flow: https://docs.github.com/en/get-started/using-github/github-flow
-- Conventional commits: https://www.conventionalcommits.org/en/v1.0.0/
+- Development flow: https://docs.github.com/en/get-started/using-github/github-flow;
+- Conventional commits: https://www.conventionalcommits.org/en/v1.0.0/.
 
 ## Stack
 
@@ -37,7 +37,7 @@ Back-End (API)
 - PHP;
 - Laravel;
 - Docker;
-- Docker-Compose;
+- Docker-Compose.
 
 Deploy
 
