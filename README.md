@@ -4,7 +4,7 @@ Task management application developed with the aim of deepening my knowledge of 
 
 ## Wiki Documentation
 
-https://github.com/MatheusHonorato/tasks/wiki
+https://github.com/MatheusHonorato/tasks/wiki/Simple-tasks-app-documentation
 
 ## Project board
 
